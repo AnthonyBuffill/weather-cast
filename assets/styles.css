@@ -1,0 +1,16 @@
+body {
+  background-color: #f5e39b; /* Pale Yellow background */
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+button {
+  background-color: #621e62; /* Purple button background */
+  color: #ffffff; /* White text color */
+}
+
+.container {
+  background-color: #e6e6fa; /* Lavender background for weather divs */
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
